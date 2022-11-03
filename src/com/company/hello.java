@@ -6,7 +6,7 @@ package com.company;
 public class hello {
     /**
      * HelloWorldクラスをJavaコマンドから呼ばれた際に実行される処理です。
-     *
+     * 2022
      * @param args コマンドライン引数。今回は使いません。
      */
     public static void main(String[] args) {
